@@ -1,0 +1,11 @@
+{% extends "ffPlatformBundle::layout.html.twig" %}
+{% block title %}Modifier une annonce{% endblock title %}
+{% block body %}
+    <h2>Modifier une annonce</h2>
+    {% include "ffPlatformBundle:Advert:form.html.twig" %}
+    <p>Vous avez édité une annonce déja existante. Merci de ne pas changer l'esprit generale</p>
+    <a class="btn btn-default" href="{{ path('ff_platform_view', {'id':advert.id}) }}">
+        <i class="glyphicon glyphicon-chevron-left"></i>
+        Retour à l'annonce
+    </a>
+{% endblock body %}

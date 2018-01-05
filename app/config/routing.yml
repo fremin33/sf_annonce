@@ -1,0 +1,7 @@
+ff_platform:
+    resource: "@ffPlatformBundle/Resources/config/routing.yml"
+    prefix:   /platform
+
+app:
+    resource: '@AppBundle/Controller/'
+    type: annotation

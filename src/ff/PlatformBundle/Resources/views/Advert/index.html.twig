@@ -1,0 +1,14 @@
+{% extends "ffPlatformBundle::layout.html.twig" %}
+{% block title %} Accueil {% endblock title %}
+{% block body %}
+    <h2>Listes des annonces</h2>
+    <ul>
+    {% for advert in listAdverts %}
+        <li>
+            <a href="{{ path('ff_platform_view', { 'id':advert.id}) }}"> {{ advert.title}}</a> par {{ advert.author }} le {{ advert.date | date('d/m/Y')}}
+        </li>
+    {% else %}
+        <li>Pas encore d'annonce</li>
+    {% endfor %}
+    </ul>
+{% endblock body %}
