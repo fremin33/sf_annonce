@@ -1,0 +1,2088 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cba12fcd-697b-4150-a0a9-c422eae6af04" name="Default" comment="add Category support" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" />
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <expand>
+      <path>
+        <item name="" type="eadb38e5:DatabaseStructure$Root" />
+        <item name="practicesymfony@localhost" type="e3449647:DbNodeDescriptor" />
+      </path>
+      <path>
+        <item name="" type="eadb38e5:DatabaseStructure$Root" />
+        <item name="practicesymfony@localhost" type="e3449647:DbNodeDescriptor" />
+        <item name="practicesymfony" type="e3449647:DbNodeDescriptor" />
+      </path>
+      <path>
+        <item name="" type="eadb38e5:DatabaseStructure$Root" />
+        <item name="practicesymfony@localhost" type="e3449647:DbNodeDescriptor" />
+        <item name="practicesymfony" type="e3449647:DbNodeDescriptor" />
+        <item name="advert" type="e3449647:DbNodeDescriptor" />
+      </path>
+      <path>
+        <item name="" type="eadb38e5:DatabaseStructure$Root" />
+        <item name="practicesymfony@localhost" type="e3449647:DbNodeDescriptor" />
+        <item name="practicesymfony" type="e3449647:DbNodeDescriptor" />
+        <item name="advert_category" type="e3449647:DbNodeDescriptor" />
+      </path>
+      <path>
+        <item name="" type="eadb38e5:DatabaseStructure$Root" />
+        <item name="practicesymfony@localhost" type="e3449647:DbNodeDescriptor" />
+        <item name="practicesymfony" type="e3449647:DbNodeDescriptor" />
+        <item name="category" type="e3449647:DbNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="practiceSymfony" />
+  </component>
+  <component name="FileColors">
+    <fileColor scope="Non-Project Files (Material Oceanic)" color="2E3C43" />
+    <fileColor scope="Non-Project Files (Material Darker)" color="323232" />
+    <fileColor scope="Non-Project Files (Material Lighter)" color="eae8e8" />
+    <fileColor scope="Non-Project Files (Material Palenight)" color="2f2e43" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="view.html.twig" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/ff/PlatformBundle/Resources/views/Advert/view.html.twig">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="25">
+              <caret line="1" column="52" lean-forward="true" selection-start-line="1" selection-start-column="52" selection-end-line="1" selection-end-column="52" />
+              <folding>
+                <element signature="e#12#46#0#Twig" expanded="true" />
+                <marker date="1515206211288" expanded="false" signature="784:800" ph="/{page}" />
+                <marker date="1515206211288" expanded="false" signature="946:962" ph="/edit/{id}" />
+                <marker date="1515206211288" expanded="false" signature="1115:1133" ph="/delete/{id}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>render</find>
+      <find>velo</find>
+      <find>getff</find>
+      <find>published=</find>
+      <find>get</find>
+      <find>getI</find>
+      <find>setU</find>
+      <find>seta</find>
+      <find>setA</find>
+      <find>Advert</find>
+      <find>set</find>
+      <find>orm</find>
+      <find>add</find>
+      <find>fi</find>
+      <find>$</find>
+      <find>remove</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>velo</replace>
+      <replace>render</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/ff/PlatformBundle/DependencyInjection/Configuration.php" />
+        <option value="$PROJECT_DIR$/src/ff/PlatformBundle/Antispam/ffAntispam.php" />
+        <option value="$PROJECT_DIR$/var/cache/dev/appDevDebugProjectContainer.php" />
+        <option value="$PROJECT_DIR$/src/ff/PlatformBundle/Resources/config/services.yml" />
+        <option value="$PROJECT_DIR$/src/ff/PlatformBundle/Entity/Image.php" />
+        <option value="$PROJECT_DIR$/src/ff/PlatformBundle/Resources/views/Advert/add.html.twig" />
+        <option value="$PROJECT_DIR$/src/ff/PlatformBundle/Entity/Application.php" />
+        <option value="$PROJECT_DIR$/app/AppKernel.php" />
+        <option value="$PROJECT_DIR$/composer.json" />
+        <option value="$PROJECT_DIR$/src/ff/PlatformBundle/DataFixtures/ORM/LoadCategory.php" />
+        <option value="$PROJECT_DIR$/src/ff/PlatformBundle/Controller/AdvertController.php" />
+        <option value="$PROJECT_DIR$/src/ff/PlatformBundle/Entity/Advert.php" />
+        <option value="$PROJECT_DIR$/src/ff/PlatformBundle/Resources/views/Advert/view.html.twig" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="676" />
+    <option name="width" value="697" />
+    <option name="height" value="735" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Assignment issuesJavaScript</id>
+          </State>
+          <State>
+            <id>Bitwise operation issuesJavaScript</id>
+          </State>
+          <State>
+            <id>CSS</id>
+          </State>
+          <State>
+            <id>Code SmellPHP</id>
+          </State>
+          <State>
+            <id>Code StylePHP</id>
+          </State>
+          <State>
+            <id>Code style issuesJavaScript</id>
+          </State>
+          <State>
+            <id>CoffeeScript</id>
+          </State>
+          <State>
+            <id>Control flow issuesJavaScript</id>
+          </State>
+          <State>
+            <id>DOM issuesJavaScript</id>
+          </State>
+          <State>
+            <id>Data flow issuesJavaScript</id>
+          </State>
+          <State>
+            <id>Error handlingJavaScript</id>
+          </State>
+          <State>
+            <id>File Watchers</id>
+          </State>
+          <State>
+            <id>General</id>
+          </State>
+          <State>
+            <id>GeneralCoffeeScript</id>
+          </State>
+          <State>
+            <id>GeneralJavaScript</id>
+          </State>
+          <State>
+            <id>GeneralPHP</id>
+          </State>
+          <State>
+            <id>Invalid elementsCSS</id>
+          </State>
+          <State>
+            <id>JavaScript</id>
+          </State>
+          <State>
+            <id>JavaScript function metricsJavaScript</id>
+          </State>
+          <State>
+            <id>JavaScript validity issuesJavaScript</id>
+          </State>
+          <State>
+            <id>Naming conventionsJavaScript</id>
+          </State>
+          <State>
+            <id>Naming conventionsPHP</id>
+          </State>
+          <State>
+            <id>PHP</id>
+          </State>
+          <State>
+            <id>PHP Strict StandardsPHP</id>
+          </State>
+          <State>
+            <id>PHPDocPHP</id>
+          </State>
+          <State>
+            <id>Probable bugsJavaScript</id>
+          </State>
+          <State>
+            <id>Probable bugsPHP</id>
+          </State>
+          <State>
+            <id>RELAX NG</id>
+          </State>
+          <State>
+            <id>RegExp</id>
+          </State>
+          <State>
+            <id>SQL</id>
+          </State>
+          <State>
+            <id>ServiceSymfony</id>
+          </State>
+          <State>
+            <id>Symfony</id>
+          </State>
+          <State>
+            <id>TemplateSymfony</id>
+          </State>
+          <State>
+            <id>TwigSymfony</id>
+          </State>
+          <State>
+            <id>Type compatibilityPHP</id>
+          </State>
+          <State>
+            <id>TypeScript</id>
+          </State>
+          <State>
+            <id>UndefinedPHP</id>
+          </State>
+          <State>
+            <id>UnusedPHP</id>
+          </State>
+          <State>
+            <id>XML</id>
+          </State>
+          <State>
+            <id>XPath</id>
+          </State>
+          <State>
+            <id>XSLT</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>AngularJS</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="practiceSymfony" type="b2602c69:ProjectViewProjectNode" />
+              <item name="practiceSymfony" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="practiceSymfony" type="b2602c69:ProjectViewProjectNode" />
+              <item name="practiceSymfony" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="practiceSymfony" type="b2602c69:ProjectViewProjectNode" />
+              <item name="practiceSymfony" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="ff" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="practiceSymfony" type="b2602c69:ProjectViewProjectNode" />
+              <item name="practiceSymfony" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="ff" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="PlatformBundle" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="practiceSymfony" type="b2602c69:ProjectViewProjectNode" />
+              <item name="practiceSymfony" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="ff" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="PlatformBundle" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Controller" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="practiceSymfony" type="b2602c69:ProjectViewProjectNode" />
+              <item name="practiceSymfony" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="ff" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="PlatformBundle" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="DataFixtures" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="practiceSymfony" type="b2602c69:ProjectViewProjectNode" />
+              <item name="practiceSymfony" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="ff" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="PlatformBundle" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="DataFixtures" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="ORM" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="practiceSymfony" type="b2602c69:ProjectViewProjectNode" />
+              <item name="practiceSymfony" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="ff" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="PlatformBundle" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Entity" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="practiceSymfony" type="b2602c69:ProjectViewProjectNode" />
+              <item name="practiceSymfony" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="ff" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="PlatformBundle" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Resources" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="practiceSymfony" type="b2602c69:ProjectViewProjectNode" />
+              <item name="practiceSymfony" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="ff" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="PlatformBundle" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Resources" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="views" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="practiceSymfony" type="b2602c69:ProjectViewProjectNode" />
+              <item name="practiceSymfony" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="ff" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="PlatformBundle" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Resources" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="views" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Advert" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="full.screen.before.presentation.mode" value="false" />
+    <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cba12fcd-697b-4150-a0a9-c422eae6af04" name="Default" comment="" />
+      <created>1515171809702</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1515171809702</updated>
+      <workItem from="1515171811603" duration="454000" />
+      <workItem from="1515172291830" duration="1240000" />
+      <workItem from="1515173565157" duration="538000" />
+      <workItem from="1515174131958" duration="211000" />
+      <workItem from="1515178700240" duration="25000" />
+      <workItem from="1515178746894" duration="25000" />
+      <workItem from="1515178793740" duration="239000" />
+      <workItem from="1515179058372" duration="62000" />
+      <workItem from="1515179141915" duration="482000" />
+      <workItem from="1515179650428" duration="51000" />
+      <workItem from="1515179723084" duration="639000" />
+      <workItem from="1515180387799" duration="217000" />
+      <workItem from="1515180631931" duration="3236000" />
+      <workItem from="1515183906561" duration="95000" />
+      <workItem from="1515184024675" duration="513000" />
+      <workItem from="1515184557322" duration="1721000" />
+      <workItem from="1515186588442" duration="19160000" />
+    </task>
+    <task id="LOCAL-00001" summary="add Category support">
+      <created>1515206259624</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1515206259624</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="28908000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19472913" sideWeight="0.49234137" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32924962" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24963397" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2510981" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32924962" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24963397" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24963397" sideWeight="0.50765866" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32924962" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add Service Antispam" />
+    <MESSAGE value="add Category support" />
+    <option name="LAST_COMMIT_MESSAGE" value="add Category support" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/src/ff/PlatformBundle/DependencyInjection/Configuration.php</url>
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/ff/PlatformBundle/Antispam/ffAntispam.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="13" column="7" lean-forward="true" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
+          <folding>
+            <marker date="1515186619676" expanded="true" signature="48:110" ph=" Class Antispam ..." />
+            <marker date="1515186619676" expanded="true" signature="131:579" ph="..." />
+            <marker date="1515186619676" expanded="true" signature="139:238" ph=" Vérifie si le texte est un spam ou non ..." />
+            <marker date="1515186619676" expanded="true" signature="382:487" ph="{...}" />
+            <marker date="1515186619676" expanded="true" signature="525:577" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ff/PlatformBundle/Controller/AdvertController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2575">
+          <caret line="103" column="11" lean-forward="true" selection-start-line="103" selection-start-column="11" selection-end-line="103" selection-end-column="11" />
+          <folding>
+            <marker date="1515205680303" expanded="false" signature="51:412" ph="..." />
+            <marker date="1515205680303" expanded="true" signature="455:6582" ph="{...}" />
+            <marker date="1515205680303" expanded="true" signature="497:1597" ph="{...}" />
+            <marker date="1515205680303" expanded="true" signature="533:1589" ph="..." />
+            <marker date="1515205680303" expanded="false" signature="534:573" ph="ffPlatform:Advert:index" />
+            <marker date="1515205680303" expanded="true" signature="577:1588" ph="..." />
+            <marker date="1515205680303" expanded="true" signature="608:1578" ph="..." />
+            <marker date="1515205680303" expanded="true" signature="626:940" ph="..." />
+            <marker date="1515205680303" expanded="true" signature="960:1258" ph="..." />
+            <marker date="1515205680303" expanded="true" signature="1278:1564" ph="..." />
+            <marker date="1515205680303" expanded="true" signature="1653:2409" ph="{...}" />
+            <marker date="1515205680303" expanded="true" signature="1932:2050" ph="..." />
+            <marker date="1515205680303" expanded="true" signature="2263:2401" ph="..." />
+            <marker date="1515205680303" expanded="false" signature="2264:2302" ph="ffPlatform:Advert:view" />
+            <marker date="1515205680303" expanded="true" signature="2306:2400" ph="..." />
+            <marker date="1515205680303" expanded="true" signature="2469:2584" ph="{...}" />
+            <marker date="1515205680303" expanded="true" signature="2634:4481" ph="{...}" />
+            <marker date="1515205680303" expanded="true" signature="4095:4340" ph="..." />
+            <marker date="1515205680303" expanded="false" signature="4433:4470" ph="ffPlatform:Advert:add" />
+            <marker date="1515205680303" expanded="true" signature="4537:5196" ph="{...}" />
+            <marker date="1515205680303" expanded="true" signature="4736:4817" ph="..." />
+            <marker date="1515205680303" expanded="true" signature="5036:5090" ph="..." />
+            <marker date="1515205680303" expanded="true" signature="5254:5737" ph="{...}" />
+            <marker date="1515205680303" expanded="true" signature="5452:5518" ph="..." />
+            <marker date="1515205680303" expanded="true" signature="5650:5707" ph="..." />
+            <marker date="1515205680303" expanded="true" signature="5777:6168" ph="{...}" />
+            <marker date="1515205680303" expanded="true" signature="5813:6033" ph="..." />
+            <marker date="1515205680303" expanded="true" signature="6065:6160" ph="..." />
+            <marker date="1515205680303" expanded="false" signature="6066:6104" ph="ffPlatform:Advert:menu" />
+            <marker date="1515205680303" expanded="true" signature="6108:6159" ph="..." />
+            <marker date="1515205680303" expanded="true" signature="6172:6578" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ff/PlatformBundle/Controller/AdvertController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding>
+            <marker date="1515205680303" expanded="false" signature="51:412" ph="..." />
+            <marker date="1515205680303" expanded="true" signature="455:6582" ph="{...}" />
+            <marker date="1515205680303" expanded="true" signature="497:1597" ph="{...}" />
+            <marker date="1515205680303" expanded="true" signature="533:1589" ph="..." />
+            <marker date="1515205680303" expanded="false" signature="534:573" ph="ffPlatform:Advert:index" />
+            <marker date="1515205680303" expanded="true" signature="577:1588" ph="..." />
+            <marker date="1515205680303" expanded="true" signature="608:1578" ph="..." />
+            <marker date="1515205680303" expanded="true" signature="626:940" ph="..." />
+            <marker date="1515205680303" expanded="true" signature="960:1258" ph="..." />
+            <marker date="1515205680303" expanded="true" signature="1278:1564" ph="..." />
+            <marker date="1515205680303" expanded="true" signature="1653:2409" ph="{...}" />
+            <marker date="1515205680303" expanded="true" signature="1932:2050" ph="..." />
+            <marker date="1515205680303" expanded="true" signature="2263:2401" ph="..." />
+            <marker date="1515205680303" expanded="false" signature="2264:2302" ph="ffPlatform:Advert:view" />
+            <marker date="1515205680303" expanded="true" signature="2306:2400" ph="..." />
+            <marker date="1515205680303" expanded="true" signature="2469:2584" ph="{...}" />
+            <marker date="1515205680303" expanded="true" signature="2634:4481" ph="{...}" />
+            <marker date="1515205680303" expanded="true" signature="4095:4340" ph="..." />
+            <marker date="1515205680303" expanded="false" signature="4433:4470" ph="ffPlatform:Advert:add" />
+            <marker date="1515205680303" expanded="true" signature="4537:5196" ph="{...}" />
+            <marker date="1515205680303" expanded="true" signature="4736:4817" ph="..." />
+            <marker date="1515205680303" expanded="true" signature="5036:5090" ph="..." />
+            <marker date="1515205680303" expanded="true" signature="5254:5737" ph="{...}" />
+            <marker date="1515205680303" expanded="true" signature="5452:5518" ph="..." />
+            <marker date="1515205680303" expanded="true" signature="5650:5707" ph="..." />
+            <marker date="1515205680303" expanded="true" signature="5777:6168" ph="{...}" />
+            <marker date="1515205680303" expanded="true" signature="5813:6033" ph="..." />
+            <marker date="1515205680303" expanded="true" signature="6065:6160" ph="..." />
+            <marker date="1515205680303" expanded="false" signature="6066:6104" ph="ffPlatform:Advert:menu" />
+            <marker date="1515205680303" expanded="true" signature="6108:6159" ph="..." />
+            <marker date="1515205680303" expanded="true" signature="6172:6578" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ff/PlatformBundle/Controller/AdvertController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1900">
+          <caret line="76" column="5" lean-forward="true" selection-start-line="76" selection-start-column="5" selection-end-line="76" selection-end-column="5" />
+          <folding>
+            <marker date="1515205680303" expanded="false" signature="51:412" ph="..." />
+            <marker date="1515205680303" expanded="true" signature="455:6582" ph="{...}" />
+            <marker date="1515205680303" expanded="true" signature="497:1597" ph="{...}" />
+            <marker date="1515205680303" expanded="true" signature="533:1589" ph="..." />
+            <marker date="1515205680303" expanded="false" signature="534:573" ph="ffPlatform:Advert:index" />
+            <marker date="1515205680303" expanded="true" signature="577:1588" ph="..." />
+            <marker date="1515205680303" expanded="true" signature="608:1578" ph="..." />
+            <marker date="1515205680303" expanded="true" signature="626:940" ph="..." />
+            <marker date="1515205680303" expanded="true" signature="960:1258" ph="..." />
+            <marker date="1515205680303" expanded="true" signature="1278:1564" ph="..." />
+            <marker date="1515205680303" expanded="true" signature="1653:2409" ph="{...}" />
+            <marker date="1515205680303" expanded="true" signature="1932:2050" ph="..." />
+            <marker date="1515205680303" expanded="true" signature="2263:2401" ph="..." />
+            <marker date="1515205680303" expanded="false" signature="2264:2302" ph="ffPlatform:Advert:view" />
+            <marker date="1515205680303" expanded="true" signature="2306:2400" ph="..." />
+            <marker date="1515205680303" expanded="true" signature="2469:2584" ph="{...}" />
+            <marker date="1515205680303" expanded="true" signature="2634:4481" ph="{...}" />
+            <marker date="1515205680303" expanded="true" signature="4095:4340" ph="..." />
+            <marker date="1515205680303" expanded="false" signature="4433:4470" ph="ffPlatform:Advert:add" />
+            <marker date="1515205680303" expanded="true" signature="4537:5196" ph="{...}" />
+            <marker date="1515205680303" expanded="true" signature="4736:4817" ph="..." />
+            <marker date="1515205680303" expanded="true" signature="5036:5090" ph="..." />
+            <marker date="1515205680303" expanded="true" signature="5254:5737" ph="{...}" />
+            <marker date="1515205680303" expanded="true" signature="5452:5518" ph="..." />
+            <marker date="1515205680303" expanded="true" signature="5650:5707" ph="..." />
+            <marker date="1515205680303" expanded="true" signature="5777:6168" ph="{...}" />
+            <marker date="1515205680303" expanded="true" signature="5813:6033" ph="..." />
+            <marker date="1515205680303" expanded="true" signature="6065:6160" ph="..." />
+            <marker date="1515205680303" expanded="false" signature="6066:6104" ph="ffPlatform:Advert:menu" />
+            <marker date="1515205680303" expanded="true" signature="6108:6159" ph="..." />
+            <marker date="1515205680303" expanded="true" signature="6172:6578" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ff/PlatformBundle/Controller/AdvertController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" column="62" lean-forward="true" selection-start-line="5" selection-start-column="62" selection-end-line="5" selection-end-column="62" />
+          <folding>
+            <marker date="1515205680303" expanded="false" signature="51:412" ph="..." />
+            <marker date="1515205680303" expanded="true" signature="455:6582" ph="{...}" />
+            <marker date="1515205680303" expanded="true" signature="497:1597" ph="{...}" />
+            <marker date="1515205680303" expanded="true" signature="533:1589" ph="..." />
+            <marker date="1515205680303" expanded="false" signature="534:573" ph="ffPlatform:Advert:index" />
+            <marker date="1515205680303" expanded="true" signature="577:1588" ph="..." />
+            <marker date="1515205680303" expanded="true" signature="608:1578" ph="..." />
+            <marker date="1515205680303" expanded="true" signature="626:940" ph="..." />
+            <marker date="1515205680303" expanded="true" signature="960:1258" ph="..." />
+            <marker date="1515205680303" expanded="true" signature="1278:1564" ph="..." />
+            <marker date="1515205680303" expanded="true" signature="1653:2409" ph="{...}" />
+            <marker date="1515205680303" expanded="true" signature="1932:2050" ph="..." />
+            <marker date="1515205680303" expanded="true" signature="2263:2401" ph="..." />
+            <marker date="1515205680303" expanded="false" signature="2264:2302" ph="ffPlatform:Advert:view" />
+            <marker date="1515205680303" expanded="true" signature="2306:2400" ph="..." />
+            <marker date="1515205680303" expanded="true" signature="2469:2584" ph="{...}" />
+            <marker date="1515205680303" expanded="true" signature="2634:4481" ph="{...}" />
+            <marker date="1515205680303" expanded="true" signature="4095:4340" ph="..." />
+            <marker date="1515205680303" expanded="false" signature="4433:4470" ph="ffPlatform:Advert:add" />
+            <marker date="1515205680303" expanded="true" signature="4537:5196" ph="{...}" />
+            <marker date="1515205680303" expanded="true" signature="4736:4817" ph="..." />
+            <marker date="1515205680303" expanded="true" signature="5036:5090" ph="..." />
+            <marker date="1515205680303" expanded="true" signature="5254:5737" ph="{...}" />
+            <marker date="1515205680303" expanded="true" signature="5452:5518" ph="..." />
+            <marker date="1515205680303" expanded="true" signature="5650:5707" ph="..." />
+            <marker date="1515205680303" expanded="true" signature="5777:6168" ph="{...}" />
+            <marker date="1515205680303" expanded="true" signature="5813:6033" ph="..." />
+            <marker date="1515205680303" expanded="true" signature="6065:6160" ph="..." />
+            <marker date="1515205680303" expanded="false" signature="6066:6104" ph="ffPlatform:Advert:menu" />
+            <marker date="1515205680303" expanded="true" signature="6108:6159" ph="..." />
+            <marker date="1515205680303" expanded="true" signature="6172:6578" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ff/PlatformBundle/Antispam/ffAntispam.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding>
+            <marker date="1515186619676" expanded="true" signature="48:110" ph=" Class Antispam ..." />
+            <marker date="1515186619676" expanded="true" signature="131:579" ph="..." />
+            <marker date="1515186619676" expanded="true" signature="139:238" ph=" Vérifie si le texte est un spam ou non ..." />
+            <marker date="1515186619676" expanded="true" signature="382:487" ph="{...}" />
+            <marker date="1515186619676" expanded="true" signature="525:577" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ff/PlatformBundle/Antispam/ffAntispam.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="1" lean-forward="false" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+          <folding>
+            <marker date="1515186619676" expanded="true" signature="48:110" ph=" Class Antispam ..." />
+            <marker date="1515186619676" expanded="true" signature="131:579" ph="..." />
+            <marker date="1515186619676" expanded="true" signature="139:238" ph=" Vérifie si le texte est un spam ou non ..." />
+            <marker date="1515186619676" expanded="true" signature="382:487" ph="{...}" />
+            <marker date="1515186619676" expanded="true" signature="525:577" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ff/PlatformBundle/Antispam/ffAntispam.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+          <folding>
+            <marker date="1515186619676" expanded="true" signature="48:110" ph=" Class Antispam ..." />
+            <marker date="1515186619676" expanded="true" signature="131:579" ph="..." />
+            <marker date="1515186619676" expanded="true" signature="139:238" ph=" Vérifie si le texte est un spam ou non ..." />
+            <marker date="1515186619676" expanded="true" signature="382:487" ph="{...}" />
+            <marker date="1515186619676" expanded="true" signature="525:577" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ff/PlatformBundle/Antispam/ffAntispam.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="1" lean-forward="false" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+          <folding>
+            <marker date="1515186619676" expanded="true" signature="48:110" ph=" Class Antispam ..." />
+            <marker date="1515186619676" expanded="true" signature="131:579" ph="..." />
+            <marker date="1515186619676" expanded="true" signature="139:238" ph=" Vérifie si le texte est un spam ou non ..." />
+            <marker date="1515186619676" expanded="true" signature="382:487" ph="{...}" />
+            <marker date="1515186619676" expanded="true" signature="525:577" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ff/PlatformBundle/Antispam/ffAntispam.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="1" lean-forward="true" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+          <folding>
+            <marker date="1515186619676" expanded="true" signature="48:110" ph=" Class Antispam ..." />
+            <marker date="1515186619676" expanded="true" signature="131:579" ph="..." />
+            <marker date="1515186619676" expanded="true" signature="139:238" ph=" Vérifie si le texte est un spam ou non ..." />
+            <marker date="1515186619676" expanded="true" signature="382:487" ph="{...}" />
+            <marker date="1515186619676" expanded="true" signature="525:577" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ff/PlatformBundle/Antispam/ffAntispam.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="1" lean-forward="true" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+          <folding>
+            <marker date="1515186619676" expanded="true" signature="48:110" ph=" Class Antispam ..." />
+            <marker date="1515186619676" expanded="true" signature="131:579" ph="..." />
+            <marker date="1515186619676" expanded="true" signature="139:238" ph=" Vérifie si le texte est un spam ou non ..." />
+            <marker date="1515186619676" expanded="true" signature="382:487" ph="{...}" />
+            <marker date="1515186619676" expanded="true" signature="525:577" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ff/PlatformBundle/Antispam/ffAntispam.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="1" lean-forward="false" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+          <folding>
+            <marker date="1515186619676" expanded="true" signature="48:110" ph=" Class Antispam ..." />
+            <marker date="1515186619676" expanded="true" signature="131:579" ph="..." />
+            <marker date="1515186619676" expanded="true" signature="139:238" ph=" Vérifie si le texte est un spam ou non ..." />
+            <marker date="1515186619676" expanded="true" signature="382:487" ph="{...}" />
+            <marker date="1515186619676" expanded="true" signature="525:577" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ff/PlatformBundle/Antispam/ffAntispam.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="6" column="1" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+          <folding>
+            <marker date="1515186619676" expanded="true" signature="48:110" ph=" Class Antispam ..." />
+            <marker date="1515186619676" expanded="true" signature="131:579" ph="..." />
+            <marker date="1515186619676" expanded="true" signature="139:238" ph=" Vérifie si le texte est un spam ou non ..." />
+            <marker date="1515186619676" expanded="true" signature="382:487" ph="{...}" />
+            <marker date="1515186619676" expanded="true" signature="525:577" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ff/PlatformBundle/Antispam/ffAntispam.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="6" column="1" lean-forward="false" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+          <folding>
+            <marker date="1515186619676" expanded="true" signature="48:110" ph=" Class Antispam ..." />
+            <marker date="1515186619676" expanded="true" signature="131:579" ph="..." />
+            <marker date="1515186619676" expanded="true" signature="139:238" ph=" Vérifie si le texte est un spam ou non ..." />
+            <marker date="1515186619676" expanded="true" signature="382:487" ph="{...}" />
+            <marker date="1515186619676" expanded="true" signature="525:577" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ff/PlatformBundle/Antispam/ffAntispam.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1515186619676" expanded="true" signature="48:110" ph=" Class Antispam ..." />
+            <marker date="1515186619676" expanded="true" signature="131:579" ph="..." />
+            <marker date="1515186619676" expanded="true" signature="139:238" ph=" Vérifie si le texte est un spam ou non ..." />
+            <marker date="1515186619676" expanded="true" signature="382:487" ph="{...}" />
+            <marker date="1515186619676" expanded="true" signature="525:577" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ff/PlatformBundle/Antispam/ffAntispam.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1515186619676" expanded="true" signature="48:110" ph=" Class Antispam ..." />
+            <marker date="1515186619676" expanded="true" signature="131:579" ph="..." />
+            <marker date="1515186619676" expanded="true" signature="139:238" ph=" Vérifie si le texte est un spam ou non ..." />
+            <marker date="1515186619676" expanded="true" signature="382:487" ph="{...}" />
+            <marker date="1515186619676" expanded="true" signature="525:577" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ff/PlatformBundle/Resources/views/layout.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="11" column="6" lean-forward="true" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ff/PlatformBundle/DependencyInjection/Configuration.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="9" column="2" lean-forward="true" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
+          <folding>
+            <marker date="1515089692302" expanded="false" signature="61:181" ph="..." />
+            <marker date="1515089692302" expanded="true" signature="186:376" ph=" This is the class that validates and merges configuration from your app/config files. ..." />
+            <marker date="1515089692302" expanded="true" signature="432:841" ph="{...}" />
+            <marker date="1515089692302" expanded="true" signature="442:469" ph=" {@inheritdoc} ..." />
+            <marker date="1515089692302" expanded="true" signature="514:839" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ff/PlatformBundle/DependencyInjection/ffPlatformExtension.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1515089692270" expanded="false" signature="61:272" ph="..." />
+            <marker date="1515089692270" expanded="true" signature="277:425" ph=" This is the class that loads and manages your bundle configuration. ..." />
+            <marker date="1515089692270" expanded="true" signature="471:859" ph="{...}" />
+            <marker date="1515089692270" expanded="true" signature="481:508" ph=" {@inheritdoc} ..." />
+            <marker date="1515089692270" expanded="true" signature="580:857" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ff/PlatformBundle/Resources/config/routing.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="18" column="48" lean-forward="true" selection-start-line="18" selection-start-column="48" selection-end-line="18" selection-end-column="48" />
+          <folding>
+            <marker date="1515115916635" expanded="true" signature="0:154" ph="ff_platform_home: &lt;3 keys&gt;" />
+            <marker date="1515115916635" expanded="true" signature="32:39" ph="/{page}" />
+            <marker date="1515115916635" expanded="true" signature="44:118" ph="defaults: &lt;2 keys&gt;" />
+            <marker date="1515115916635" expanded="true" signature="75:104" ph="ffPlatfor…vert:index" />
+            <marker date="1515115916635" expanded="true" signature="123:154" ph="requirements: &lt;1 key&gt;" />
+            <marker date="1515115916635" expanded="true" signature="151:154" ph="\d*" />
+            <marker date="1515115916635" expanded="true" signature="156:298" ph="ff_platform_view: &lt;3 keys&gt;" />
+            <marker date="1515115916635" expanded="true" signature="188:200" ph="/advert/{id}" />
+            <marker date="1515115916635" expanded="true" signature="205:264" ph="defaults: &lt;1 key&gt;" />
+            <marker date="1515115916635" expanded="true" signature="236:264" ph="ffPlatfor…dvert:view" />
+            <marker date="1515115916635" expanded="true" signature="269:298" ph="requirements: &lt;1 key&gt;" />
+            <marker date="1515115916635" expanded="true" signature="295:298" ph="\d+" />
+            <marker date="1515115916635" expanded="true" signature="300:398" ph="ff_platform_add: &lt;2 keys&gt;" />
+            <marker date="1515115916635" expanded="true" signature="331:335" ph="/add" />
+            <marker date="1515115916635" expanded="true" signature="340:398" ph="defaults: &lt;1 key&gt;" />
+            <marker date="1515115916635" expanded="true" signature="371:398" ph="ffPlatfor…Advert:add" />
+            <marker date="1515115916635" expanded="true" signature="400:544" ph="ff_platform_edit: &lt;3 keys&gt;" />
+            <marker date="1515115916635" expanded="true" signature="432:442" ph="/edit/{id}" />
+            <marker date="1515115916635" expanded="true" signature="447:506" ph="defaults: &lt;1 key&gt;" />
+            <marker date="1515115916635" expanded="true" signature="478:506" ph="ffPlatfor…dvert:edit" />
+            <marker date="1515115916635" expanded="true" signature="511:544" ph="requirements: &lt;1 key&gt;" />
+            <marker date="1515115916635" expanded="true" signature="541:544" ph="\d+" />
+            <marker date="1515115916635" expanded="true" signature="579:591" ph="/delete/{id}" />
+            <marker date="1515115916635" expanded="true" signature="596:657" ph="defaults: &lt;1 key&gt;" />
+            <marker date="1515115916635" expanded="true" signature="627:657" ph="ffPlatfor…ert:delete" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/var/cache/dev/appDevDebugProjectContainer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="1245" column="28" lean-forward="false" selection-start-line="1245" selection-start-column="28" selection-end-line="1245" selection-end-column="28" />
+          <folding>
+            <marker date="1515204657328" expanded="false" signature="11:484" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="489:610" ph=" This class has been auto-generated ..." />
+            <marker date="1515204657328" expanded="true" signature="664:253485" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="761:7047" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="829:896" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="1030:1141" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="1177:7047" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="22664:25513" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="25547:26693" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="26710:26737" ph=" {@inheritdoc} ..." />
+            <marker date="1515204657328" expanded="true" signature="26769:26883" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="26892:26919" ph=" {@inheritdoc} ..." />
+            <marker date="1515204657328" expanded="true" signature="26954:26987" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="26996:27023" ph=" {@inheritdoc} ..." />
+            <marker date="1515204657328" expanded="true" signature="27056:27270" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="27279:27437" ph=" Gets the public 'AppBundle\Controller\DefaultController' shared autowired service. ..." />
+            <marker date="1515204657328" expanded="true" signature="27513:27647" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="27656:27785" ph=" Gets the public 'annotation_reader' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="27839:28394" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="28201:28378" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="28403:28540" ph=" Gets the public 'assets.context' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="28592:28845" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="28854:28973" ph=" Gets the public 'assets.packages' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="29026:29388" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="29397:29526" ph=" Gets the public 'cache.app' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="29573:29855" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="29864:30015" ph=" Gets the public 'cache.default_clearer' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="30073:30833" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="30208:30824" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="30842:30992" ph=" Gets the public 'cache.global_clearer' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="31049:31808" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="31183:31799" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="31817:31949" ph=" Gets the public 'cache.system' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="31999:32293" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="32302:32446" ph=" Gets the public 'cache_clearer' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="32496:32792" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="32801:32946" ph=" Gets the public 'cache_warmer' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="32995:35721" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="33561:35712" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="34915:35129" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="34938:35128" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="35730:35880" ph=" Gets the public 'config_cache_factory' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="35936:36759" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="36101:36746" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="36768:36984" ph=" Gets the public 'console.command.symfony_bundle_securitybundle_command_userpasswordencodercommand' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="37098:37472" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="37481:37679" ph=" Gets the public 'console.command.symfony_bundle_webserverbundle_command_serverruncommand' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="37784:38007" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="38016:38218" ph=" Gets the public 'console.command.symfony_bundle_webserverbundle_command_serverstartcommand' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="38325:38552" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="38561:38765" ph=" Gets the public 'console.command.symfony_bundle_webserverbundle_command_serverstatuscommand' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="38873:39063" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="39072:39272" ph=" Gets the public 'console.command.symfony_bundle_webserverbundle_command_serverstopcommand' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="39378:39564" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="39573:39724" ph=" Gets the public 'data_collector.dump' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="39780:40418" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="40427:40582" ph=" Gets the public 'data_collector.form' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="40638:40957" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="40966:41131" ph=" Gets the public 'data_collector.form.extractor' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="41197:41348" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="41357:41516" ph=" Gets the public 'data_collector.request' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="41575:41720" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="41729:41886" ph=" Gets the public 'data_collector.router' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="41944:42087" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="42096:42256" ph=" Gets the public 'debug.argument_resolver' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="42316:44199" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="42633:44047" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="44208:44372" ph=" Gets the public 'debug.controller_resolver' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="44434:45333" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="45342:45507" ph=" Gets the public 'debug.debug_handlers_listener' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="45572:46112" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="46121:46267" ph=" Gets the public 'debug.dump_listener' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="46323:46753" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="46762:46915" ph=" Gets the public 'debug.event_dispatcher' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="46974:52834" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="47558:47819" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="47585:47815" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="47603:47787" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="47853:48098" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="47878:48094" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="47896:48068" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="48132:48408" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="48157:48400" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="48175:48374" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="48442:48680" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="48466:48675" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="48484:48650" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="48714:48964" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="48745:48960" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="48763:48929" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="48998:49267" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="49022:49261" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="49040:49236" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="49301:49598" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="49325:49593" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="49343:49568" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="49632:49895" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="49655:49888" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="49673:49864" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="49929:50200" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="49956:50193" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="49974:50165" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="50234:50476" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="50258:50470" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="50276:50445" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="50510:50771" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="50535:50763" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="50553:50737" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="50805:51049" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="50829:51044" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="50847:51019" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="51083:51331" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="51108:51324" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="51126:51298" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="51365:51612" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="51391:51608" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="51409:51581" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="51646:51897" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="51672:51889" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="51690:51862" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="51931:52195" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="51958:52191" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="51976:52163" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="52229:52489" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="52254:52485" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="52272:52459" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="52523:52799" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="52547:52792" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="52565:52773" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="52833:52834" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="52857:53066" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="52875:53041" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="53105:53355" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="53136:53351" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="53154:53320" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="53389:53632" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="53413:53628" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="53431:53603" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="53666:53922" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="53697:53918" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="53715:53887" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="53956:54261" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="53981:54257" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="53999:54231" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="54295:54563" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="54321:54556" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="54339:54529" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="54597:54855" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="54622:54849" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="54640:54830" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="54889:55152" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="54916:55145" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="54934:55124" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="55186:55475" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="55212:55471" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="55230:55450" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="55509:55798" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="55535:55794" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="55553:55773" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="55832:56118" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="55855:56114" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="55873:56093" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="56152:56442" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="56179:56438" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="56197:56417" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="56476:56800" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="56503:56796" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="56521:56768" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="56834:57155" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="56861:57151" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="56879:57123" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="57189:57498" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="57216:57491" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="57234:57463" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="57532:57826" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="57553:57822" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="57571:57800" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="57860:58169" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="57887:58165" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="57905:58137" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="58203:58508" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="58228:58504" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="58246:58478" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="58542:58860" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="58569:58856" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="58587:58828" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="58894:59141" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="58919:59134" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="58937:59115" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="59175:59450" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="59200:59443" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="59218:59417" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="59494:59618" ph=" Gets the public 'debug.stopwatch' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="59671:59781" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="59790:60039" ph=" Gets the public 'deprecated.form.registry' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="60101:61967" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="60394:61932" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="61976:62235" ph=" Gets the public 'deprecated.form.registry.csrf' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="62302:62812" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="62821:62940" ph=" Gets the public 'doctrine' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="62986:63233" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="63242:63429" ph=" Gets the public 'doctrine.cache_clear_metadata_command' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="63501:63674" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="63683:63870" ph=" Gets the public 'doctrine.cache_clear_query_cache_command' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="63944:64117" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="64126:64309" ph=" Gets the public 'doctrine.cache_clear_result_command' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="64379:64548" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="64557:64745" ph=" Gets the public 'doctrine.cache_collection_region_command' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="64820:64994" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="65003:65188" ph=" Gets the public 'doctrine.clear_entity_region_command' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="65259:65430" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="65439:65622" ph=" Gets the public 'doctrine.clear_query_region_command' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="65692:65861" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="65870:66042" ph=" Gets the public 'doctrine.database_create_command' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="66110:66268" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="66277:66445" ph=" Gets the public 'doctrine.database_drop_command' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="66511:66665" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="66674:66844" ph=" Gets the public 'doctrine.database_import_command' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="66912:67068" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="67077:67229" ph=" Gets the public 'doctrine.dbal.connection_factory' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="67298:67443" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="67452:67580" ph=" Gets the public 'doctrine.dbal.default_connection' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="67649:69411" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="67733:68173" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="68198:68408" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="68598:68884" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="69163:69403" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="69169:69385" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="69420:69619" ph=" Gets the public 'doctrine.ensure_production_settings_command' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="69697:69882" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="69891:70067" ph=" Gets the public 'doctrine.generate_entities_command' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="70137:70299" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="70308:70486" ph=" Gets the public 'doctrine.mapping_convert_command' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="70554:70718" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="70727:70897" ph=" Gets the public 'doctrine.mapping_import_command' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="70964:71120" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="71129:71294" ph=" Gets the public 'doctrine.mapping_info_command' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="71359:71510" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="71519:71711" ph=" Gets the public 'doctrine.orm.default_entity_listener_resolver' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="71791:71974" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="71983:72116" ph=" Gets the public 'doctrine.orm.default_entity_manager' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="72203:74818" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="72333:72604" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="72637:72899" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="72933:73198" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="73825:74051" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="74345:74536" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="74774:74783" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="74827:75012" ph=" Gets the public 'doctrine.orm.default_entity_manager.property_info_extractor' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="75105:75494" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="75503:75677" ph=" Gets the public 'doctrine.orm.default_listeners.attach_entity_listeners' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="75766:75926" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="75935:76098" ph=" Gets the public 'doctrine.orm.default_manager_configurator' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="76175:76340" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="76349:76517" ph=" Gets the public 'doctrine.orm.validator.unique' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="76584:76853" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="76862:77021" ph=" Gets the public 'doctrine.orm.validator_initializer' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="77092:77352" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="77361:77525" ph=" Gets the public 'doctrine.query_dql_command' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="77587:77737" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="77746:77910" ph=" Gets the public 'doctrine.query_sql_command' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="77972:78122" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="78131:78305" ph=" Gets the public 'doctrine.schema_create_command' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="78371:78531" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="78540:78710" ph=" Gets the public 'doctrine.schema_drop_command' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="78774:78930" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="78939:79113" ph=" Gets the public 'doctrine.schema_update_command' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="79179:79339" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="79348:79518" ph=" Gets the public 'doctrine.schema_validate_command' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="79586:79742" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="79751:79913" ph=" Gets the public 'doctrine_cache.contains_command' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="79980:80128" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="80137:80295" ph=" Gets the public 'doctrine_cache.delete_command' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="80360:80504" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="80513:80669" ph=" Gets the public 'doctrine_cache.flush_command' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="80733:80875" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="80884:81048" ph=" Gets the public 'doctrine_cache.providers.doctrine.orm.default_metadata_cache' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="81143:81442" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="81451:81612" ph=" Gets the public 'doctrine_cache.providers.doctrine.orm.default_query_cache' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="81704:82000" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="82009:82171" ph=" Gets the public 'doctrine_cache.providers.doctrine.orm.default_result_cache' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="82264:82561" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="82570:82726" ph=" Gets the public 'doctrine_cache.stats_command' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="82790:82932" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="82941:83070" ph=" Gets the public 'ff_platform.antispam' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="83127:83421" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="83430:83561" ph=" Gets the public 'file_locator' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="83610:83922" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="83931:84052" ph=" Gets the public 'filesystem' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="84100:84207" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="84216:84334" ph=" Gets the public 'form.factory' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="84384:84789" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="84798:84918" ph=" Gets the public 'form.registry' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="84969:88546" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="85073:88366" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="85229:85969" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="85297:85466" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="85547:85721" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="85800:85968" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="85979:87910" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="86079:87205" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="87316:87559" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="87668:87905" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="87950:88354" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="88555:88743" ph=" Gets the public 'form.resolved_type_factory' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="88805:89182" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="89191:89455" ph=" Gets the public 'form.type.birthday' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="89511:89782" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="89791:90049" ph=" Gets the public 'form.type.button' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="90103:90368" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="90377:90641" ph=" Gets the public 'form.type.checkbox' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="90697:90968" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="90977:91247" ph=" Gets the public 'form.type.collection' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="91305:91582" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="91591:91852" ph=" Gets the public 'form.type.country' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="91907:92175" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="92184:92448" ph=" Gets the public 'form.type.currency' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="92504:92775" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="92784:93036" ph=" Gets the public 'form.type.date' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="93088:93347" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="93356:93620" ph=" Gets the public 'form.type.datetime' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="93676:93947" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="93956:94211" ph=" Gets the public 'form.type.email' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="94264:94526" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="94535:94667" ph=" Gets the public 'form.type.entity' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="94721:94954" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="94963:95215" ph=" Gets the public 'form.type.file' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="95267:95526" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="95535:95793" ph=" Gets the public 'form.type.hidden' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="95847:96112" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="96121:96382" ph=" Gets the public 'form.type.integer' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="96437:96705" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="96714:96978" ph=" Gets the public 'form.type.language' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="97034:97305" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="97314:97572" ph=" Gets the public 'form.type.locale' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="97626:97891" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="97900:98155" ph=" Gets the public 'form.type.money' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="98208:98470" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="98479:98737" ph=" Gets the public 'form.type.number' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="98791:99056" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="99065:99329" ph=" Gets the public 'form.type.password' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="99385:99656" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="99665:99926" ph=" Gets the public 'form.type.percent' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="99981:100249" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="100258:100513" ph=" Gets the public 'form.type.radio' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="100566:100828" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="100837:101092" ph=" Gets the public 'form.type.range' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="101145:101407" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="101416:101680" ph=" Gets the public 'form.type.repeated' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="101736:102007" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="102016:102271" ph=" Gets the public 'form.type.reset' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="102324:102586" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="102595:102853" ph=" Gets the public 'form.type.search' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="102907:103172" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="103181:103439" ph=" Gets the public 'form.type.submit' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="103493:103758" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="103767:104019" ph=" Gets the public 'form.type.text' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="104071:104330" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="104339:104603" ph=" Gets the public 'form.type.textarea' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="104659:104930" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="104939:105191" ph=" Gets the public 'form.type.time' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="105243:105502" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="105511:105775" ph=" Gets the public 'form.type.timezone' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="105831:106102" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="106111:106360" ph=" Gets the public 'form.type.url' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="106411:106667" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="106676:106825" ph=" Gets the public 'form.type_guesser.doctrine' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="106888:107138" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="107147:107310" ph=" Gets the public 'fragment.handler' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="107364:107890" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="107899:108047" ph=" Gets the public 'fragment.listener' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="108102:108371" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="108380:108530" ph=" Gets the public 'fragment.renderer.esi' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="108589:109100" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="109109:109269" ph=" Gets the public 'fragment.renderer.hinclude' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="109333:109794" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="109803:109959" ph=" Gets the public 'fragment.renderer.inline' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="110021:110529" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="110538:110688" ph=" Gets the public 'fragment.renderer.ssi' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="110747:111258" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="111267:111389" ph=" Gets the public 'http_kernel' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="111437:112164" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="112173:112466" ph=" Gets the public 'kernel.class_cache.cache_warmer' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="112533:113154" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="112831:113145" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="113163:113307" ph=" Gets the public 'locale_listener' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="113359:113783" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="113792:113899" ph=" Gets the public 'logger' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="113943:114895" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="114904:115085" ph=" Gets the public 'monolog.activation_strategy.not_found' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="115158:115325" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="115334:115474" ph=" Gets the public 'monolog.handler.console' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="115535:115680" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="115689:115883" ph=" Gets the public 'monolog.handler.fingers_crossed.error_level_activation_strategy' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="115980:116160" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="116169:116290" ph=" Gets the public 'monolog.handler.main' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="116348:116627" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="116636:116764" ph=" Gets the public 'monolog.handler.null_internal' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="116830:116944" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="116953:117098" ph=" Gets the public 'monolog.handler.server_log' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="117161:117319" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="117328:117449" ph=" Gets the public 'monolog.logger.cache' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="117507:118424" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="118433:118556" ph=" Gets the public 'monolog.logger.console' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="118616:119343" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="119352:119476" ph=" Gets the public 'monolog.logger.doctrine' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="119537:120266" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="120275:120396" ph=" Gets the public 'monolog.logger.event' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="120454:120992" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="121001:121120" ph=" Gets the public 'monolog.logger.php' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="121176:122089" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="122098:122222" ph=" Gets the public 'monolog.logger.profiler' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="122283:123206" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="123215:123338" ph=" Gets the public 'monolog.logger.request' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="123398:124319" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="124328:124452" ph=" Gets the public 'monolog.logger.security' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="124513:125436" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="125445:125571" ph=" Gets the public 'monolog.logger.templating' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="125634:126561" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="126570:126696" ph=" Gets the public 'profiler' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="126742:132206" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="127760:128023" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="128447:128668" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="128791:128831" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="129243:129497" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="130122:130394" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="130628:131625" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="131651:131836" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="132215:132363" ph=" Gets the public 'profiler_listener' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="132417:132818" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="132827:132965" ph=" Gets the public 'property_accessor' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="133019:133216" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="133225:133355" ph=" Gets the public 'request_stack' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="133405:133521" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="133530:133678" ph=" Gets the public 'response_listener' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="133732:133873" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="133882:134005" ph=" Gets the public 'router' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="134049:135353" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="134222:134958" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="135362:135506" ph=" Gets the public 'router_listener' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="135558:136298" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="136307:136448" ph=" Gets the public 'routing.loader' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="136500:137993" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="138002:138169" ph=" Gets the public 'security.authentication.guard_handler' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="138243:138759" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="138768:138935" ph=" Gets the public 'security.authentication_utils' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="139001:139284" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="139293:139461" ph=" Gets the public 'security.authorization_checker' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="139528:140248" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="140257:140404" ph=" Gets the public 'security.csrf.token_manager' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="140468:141040" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="141049:141199" ph=" Gets the public 'security.encoder_factory' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="141260:141403" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="141412:141561" ph=" Gets the public 'security.firewall' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="141616:142252" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="142261:142420" ph=" Gets the public 'security.firewall.map.context.dev' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="142491:142882" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="142891:143051" ph=" Gets the public 'security.firewall.map.context.main' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="143123:145655" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="144325:145272" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="145664:145820" ph=" Gets the public 'security.password_encoder' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="145882:146187" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="146196:146364" ph=" Gets the public 'security.rememberme.response_listener' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="146438:146592" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="146601:146768" ph=" Gets the public 'security.token_storage' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="146827:146980" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="146989:147168" ph=" Gets the public 'security.validator.user_password' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="147237:147724" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="147733:147876" ph=" Gets the public 'sensio_distribution.security_checker' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="147948:148077" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="148086:148252" ph=" Gets the public 'sensio_distribution.security_checker.command' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="148332:148683" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="148692:148867" ph=" Gets the public 'sensio_framework_extra.cache.listener' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="148940:149101" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="149110:149291" ph=" Gets the public 'sensio_framework_extra.controller.listener' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="149369:149678" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="149687:149880" ph=" Gets the public 'sensio_framework_extra.converter.datetime' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="149957:150136" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="150145:150342" ph=" Gets the public 'sensio_framework_extra.converter.doctrine.orm' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="150423:150768" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="150777:150961" ph=" Gets the public 'sensio_framework_extra.converter.listener' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="151038:151425" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="151434:151625" ph=" Gets the public 'sensio_framework_extra.converter.manager' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="151701:152437" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="151902:152147" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="152173:152402" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="152446:152623" ph=" Gets the public 'sensio_framework_extra.security.listener' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="152699:153750" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="153759:153927" ph=" Gets the public 'sensio_framework_extra.view.guesser' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="153998:154261" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="154270:154443" ph=" Gets the public 'sensio_framework_extra.view.listener' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="154515:154679" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="154688:154815" ph=" Gets the public 'session' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="154860:155266" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="155275:155443" ph=" Gets the public 'session.handler' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="155496:155692" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="155701:155856" ph=" Gets the public 'session.save_listener' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="155914:156055" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="156064:156233" ph=" Gets the public 'session.storage.filesystem' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="156297:156668" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="156677:156840" ph=" Gets the public 'session.storage.native' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="156900:157423" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="157432:157602" ph=" Gets the public 'session.storage.php_bridge' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="157665:158138" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="158147:158293" ph=" Gets the public 'session_listener' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="158346:158760" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="158534:158750" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="158560:158749" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="158769:158934" ph=" Gets the public 'streamed_response_listener' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="158996:159147" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="159156:159327" ph=" Gets the public 'swiftmailer.email_sender.listener' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="159397:159717" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="159726:159836" ph=" Gets the public 'swiftmailer.mailer.default' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="159900:160195" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="160204:160350" ph=" Gets the public 'swiftmailer.mailer.default.plugin.messagelogger' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="160435:160567" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="160576:160697" ph=" Gets the public 'swiftmailer.mailer.default.spool' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="160767:160874" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="160883:161021" ph=" Gets the public 'swiftmailer.mailer.default.transport' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="161095:161962" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="161695:161927" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="161971:162114" ph=" Gets the public 'swiftmailer.mailer.default.transport.real' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="162193:163522" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="163478:163487" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="163531:163649" ph=" Gets the public 'templating' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="163697:164215" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="164224:164386" ph=" Gets the public 'templating.filename_parser' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="164449:164597" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="164606:164769" ph=" Gets the public 'templating.helper.logout_url' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="164834:165164" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="165173:165333" ph=" Gets the public 'templating.helper.security' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="165397:165771" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="165780:165934" ph=" Gets the public 'templating.loader' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="165989:166279" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="166288:166442" ph=" Gets the public 'templating.name_parser' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="166501:166750" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="166759:166889" ph=" Gets the public 'translator' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="166937:167105" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="167114:167206" ph=" Gets the public 'twig' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="167248:173071" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="168269:168517" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="168302:168506" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="168561:168607" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="168810:169265" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="169302:169538" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="169573:169855" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="169890:170075" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="170110:170288" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="170323:170510" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="171235:171460" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="171880:172076" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="172258:172871" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="172369:172868" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="172439:172629" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="172692:172867" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="173080:173233" ph=" Gets the public 'twig.controller.exception' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="173296:173544" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="173553:173713" ph=" Gets the public 'twig.controller.preview_error' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="173779:174089" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="174098:174253" ph=" Gets the public 'twig.exception_listener' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="174313:174698" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="174707:174834" ph=" Gets the public 'twig.form.renderer' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="174890:175418" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="175427:175559" ph=" Gets the public 'twig.loader' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="175608:177376" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="177385:177490" ph=" Gets the public 'twig.profile' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="177540:177631" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="177640:177782" ph=" Gets the public 'twig.runtime.httpkernel' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="177843:178110" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="178119:178262" ph=" Gets the public 'twig.translation.extractor' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="178326:178558" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="178567:178687" ph=" Gets the public 'uri_signer' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="178734:178872" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="178881:179044" ph=" Gets the public 'validate_request_listener' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="179105:179254" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="179263:179400" ph=" Gets the public 'validator' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="179447:179665" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="179674:179816" ph=" Gets the public 'validator.builder' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="179871:182984" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="180054:182075" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="180187:182072" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="180278:180486" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="180589:180806" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="180886:181052" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="181137:181318" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="181369:181577" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="181631:181848" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="181890:182071" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="182744:182949" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="182750:182948" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="182993:183134" ph=" Gets the public 'validator.email' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="183187:183319" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="183328:183479" ph=" Gets the public 'validator.expression' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="183537:183674" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="183683:183820" ph=" Gets the public 'var_dumper.cli_dumper' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="183877:184016" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="184025:184158" ph=" Gets the public 'var_dumper.cloner' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="184212:184439" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="184448:184616" ph=" Gets the public 'web_profiler.controller.exception' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="184686:185113" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="185122:185288" ph=" Gets the public 'web_profiler.controller.profiler' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="185357:187675" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="185934:187465" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="187684:187846" ph=" Gets the public 'web_profiler.controller.router' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="187913:188486" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="188495:188663" ph=" Gets the public 'web_profiler.debug_toolbar' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="188725:189362" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="189371:189589" ph=" Gets the private '1_677a67db5612d7ead341f711d13998356429153ad2c61713d2ab78346a843121' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="189692:189900" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="189909:190109" ph=" Gets the private '2_677a67db5612d7ead341f711d13998356429153ad2c61713d2ab78346a843121' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="190212:190397" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="190406:190541" ph=" Gets the private 'annotations.reader' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="190597:190920" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="190929:191104" ph=" Gets the private 'argument_resolver.default' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="191166:191326" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="191335:191510" ph=" Gets the private 'argument_resolver.request' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="191572:191732" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="191741:191935" ph=" Gets the private 'argument_resolver.request_attribute' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="192006:192185" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="192194:192369" ph=" Gets the private 'argument_resolver.service' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="192431:192657" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="192666:192841" ph=" Gets the private 'argument_resolver.session' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="192903:193063" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="193072:193249" ph=" Gets the private 'argument_resolver.variadic' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="193312:193474" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="193483:193621" ph=" Gets the private 'cache.annotations' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="193676:193990" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="193999:194152" ph=" Gets the private 'cache.annotations.recorder_inner' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="194237:194650" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="194381:194642" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="194659:194805" ph=" Gets the private 'cache.app.recorder_inner' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="194882:195375" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="195098:195341" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="195132:195330" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="195384:195536" ph=" Gets the private 'cache.serializer.recorder_inner' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="195620:196032" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="195763:196024" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="196041:196189" ph=" Gets the private 'cache.system.recorder_inner' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="196269:196677" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="196408:196669" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="196686:196822" ph=" Gets the private 'cache.validator' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="196875:197181" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="197190:197341" ph=" Gets the private 'cache.validator.recorder_inner' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="197424:197835" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="197566:197827" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="197844:197992" ph=" Gets the private 'console.error_listener' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="198051:198388" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="198397:198557" ph=" Gets the private 'controller_name_converter' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="198618:198872" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="198881:199031" ph=" Gets the private 'debug.file_link_formatter' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="199092:199474" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="199483:199622" ph=" Gets the private 'debug.log_processor' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="199678:199802" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="199811:199998" ph=" Gets the private 'debug.security.access.decision_manager' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="200073:201057" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="200347:201015" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="201066:201209" ph=" Gets the private 'doctrine.dbal.logger.profiling.default' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="201285:201413" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="201422:201553" ph=" Gets the private 'form.server_params' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="201608:201854" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="201863:202005" ph=" Gets the private 'form.type.choice' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="202059:202547" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="202556:202694" ph=" Gets the private 'form.type.form' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="202746:203011" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="203020:203181" ph=" Gets the private 'form.type_extension.csrf' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="203242:203864" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="203873:204063" ph=" Gets the private 'form.type_extension.form.data_collector' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="204138:204461" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="204470:204667" ph=" Gets the private 'form.type_extension.form.http_foundation' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="204743:205157" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="205166:205347" ph=" Gets the private 'form.type_extension.form.validator' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="205418:205702" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="205711:205900" ph=" Gets the private 'form.type_extension.repeated.validator' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="205975:206149" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="206158:206343" ph=" Gets the private 'form.type_extension.submit.validator' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="206416:206586" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="206595:206776" ph=" Gets the private 'form.type_extension.upload.validator' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="206849:207150" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="207159:207322" ph=" Gets the private 'form.type_guesser.validator' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="207386:207652" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="207661:207844" ph=" Gets the private 'resolve_controller_name_subscriber' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="207913:208250" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="208259:208394" ph=" Gets the private 'router.request_context' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="208453:208612" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="208621:208799" ph=" Gets the private 'security.access.authenticated_voter' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="208871:209243" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="209252:209424" ph=" Gets the private 'security.access.expression_voter' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="209493:210098" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="210107:210274" ph=" Gets the private 'security.access.simple_role_voter' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="210343:210495" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="210504:210684" ph=" Gets the private 'security.authentication.manager' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="210753:211468" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="210952:211223" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="211477:211684" ph=" Gets the private 'security.authentication.provider.anonymous.main' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="212676:212685" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="212694:212879" ph=" Gets the private 'security.authentication.trust_resolver' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="212954:213277" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="213286:213430" ph=" Gets the private 'security.firewall.map' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="213489:214798" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="213674:214226" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="213726:213946" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="214002:214225" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="214267:214785" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="214807:214966" ph=" Gets the private 'security.logout_url_generator' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="215031:215716" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="215725:215942" ph=" Gets the private 'security.request_matcher.5314eeb91110adf24b9b678372bb11bbe00e8858c519c088bfb65f525181ad3bf573fd1d' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="216076:216314" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="216323:216469" ph=" Gets the private 'security.role_hierarchy' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="216529:216667" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="216676:216832" ph=" Gets the private 'security.user_value_resolver' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="216896:217194" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="217203:217376" ph=" Gets the private 'service_locator.e64d23c3bf770e2cf44b71643280668d' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="216428:216468" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="216428:216459" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="217639:217823" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="217853:218052" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="218080:218273" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="216428:216458" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="216477:216638" ph=" Gets the private 'session.storage.metadata_bag' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="216703:216865" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="216874:217033" ph=" Gets the private 'swiftmailer.mailer.default.transport.eventdispatcher' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="217123:217267" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="217276:217431" ph=" Gets the private 'templating.locator' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="217487:217763" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="217772:217934" ph=" Gets the private 'web_profiler.csp.handler' shared service. ..." />
+            <marker date="1515204657328" expanded="true" signature="217995:218200" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="218209:218236" ph=" {@inheritdoc} ..." />
+            <marker date="1515204657328" expanded="true" signature="218278:218823" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="218464:218576" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="218637:218774" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="218832:218859" ph=" {@inheritdoc} ..." />
+            <marker date="1515204657328" expanded="true" signature="218901:219091" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="219100:219127" ph=" {@inheritdoc} ..." />
+            <marker date="1515204657328" expanded="true" signature="219177:219277" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="219286:219313" ph=" {@inheritdoc} ..." />
+            <marker date="1515204657328" expanded="true" signature="219353:219777" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="219403:219733" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="219523:219652" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="219824:220058" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="220111:220376" ph=" Computes a dynamic parameter. ..." />
+            <marker date="1515204657328" expanded="true" signature="220426:225054" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="220457:224935" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="220747:224602" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="220763:224593" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="220807:221055" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="221100:221346" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="221387:221625" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="221669:221883" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="221931:222153" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="222198:222416" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="222473:222700" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="222740:222916" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="222963:223157" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="223199:223439" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="223487:223739" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="223794:224016" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="224068:224284" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="224330:224578" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="225063:225168" ph=" Gets the default parameters. ..." />
+            <marker date="1515204657328" expanded="true" signature="252758:253483" ph="{...}" />
+            <marker date="1515204657328" expanded="true" signature="252758:253475" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="225441:226698" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="227543:227557" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="227820:227915" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="228187:228229" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="230316:230330" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="230812:230875" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="230979:230993" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="231048:231625" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="231154:231397" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="231238:231378" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="231448:231610" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="231532:231591" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="234142:234214" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="238452:238533" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="238658:238672" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="238719:238797" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="245193:247939" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="245244:245366" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="245416:245532" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="245584:245704" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="245754:245870" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="245920:246036" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="246091:246217" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="246269:246389" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="246441:246561" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="246613:246733" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="246784:246902" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="246956:247077" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="247127:247243" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="247297:247406" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="247463:247593" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="247643:247752" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="247804:247924" ph="..." />
+            <marker date="1515204657328" expanded="true" signature="252758:253464" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ff/PlatformBundle/Antispam/ffAntispam.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="502">
+          <caret line="30" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+          <folding>
+            <marker date="1515186619676" expanded="true" signature="48:110" ph=" Class Antispam ..." />
+            <marker date="1515186619676" expanded="true" signature="131:579" ph="..." />
+            <marker date="1515186619676" expanded="true" signature="139:238" ph=" Vérifie si le texte est un spam ou non ..." />
+            <marker date="1515186619676" expanded="true" signature="382:487" ph="{...}" />
+            <marker date="1515186619676" expanded="true" signature="525:577" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ff/PlatformBundle/Resources/config/services.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding>
+            <marker date="1515188378894" expanded="true" signature="0:172" ph="services: &lt;1 key&gt;" />
+            <marker date="1515188378894" expanded="true" signature="14:172" ph="ff_platform.antispam: &lt;2 keys&gt;" />
+            <marker date="1515188378894" expanded="true" signature="51:88" ph="ff\Platfo…ffAntispam" />
+            <marker date="1515188378894" expanded="true" signature="97:172" ph="arguments : &lt;3 items&gt;" />
+            <marker date="1515188378894" expanded="true" signature="123:132" ph="@mailer" />
+            <marker date="1515188378894" expanded="true" signature="147:155" ph="%locale%" />
+            <marker date="1515188378894" expanded="true" signature="170:172" ph="50" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/parameters.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding>
+            <marker date="1515203424851" expanded="true" signature="58:354" ph="parameters: &lt;10 keys&gt;" />
+            <marker date="1515203424851" expanded="true" signature="89:98" ph="127.0.0.1" />
+            <marker date="1515203424851" expanded="true" signature="118:122" ph="null" />
+            <marker date="1515203424851" expanded="true" signature="142:157" ph="practiceSymfony" />
+            <marker date="1515203424851" expanded="true" signature="177:181" ph="root" />
+            <marker date="1515203424851" expanded="true" signature="205:209" ph="root" />
+            <marker date="1515203424851" expanded="true" signature="232:236" ph="smtp" />
+            <marker date="1515203424851" expanded="true" signature="254:263" ph="127.0.0.1" />
+            <marker date="1515203424851" expanded="true" signature="281:285" ph="null" />
+            <marker date="1515203424851" expanded="true" signature="307:311" ph="null" />
+            <marker date="1515203424851" expanded="true" signature="324:354" ph="ThisToken…etChangeIt" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/3752f53b-453b-4b6f-b8be-c31c087236fb/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ff/PlatformBundle/Resources/views/Advert/add.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" column="58" lean-forward="false" selection-start-line="4" selection-start-column="58" selection-end-line="4" selection-end-column="58" />
+          <folding>
+            <marker date="1515197009285" expanded="true" signature="12:46" ph="ffPlatform::layout" />
+            <marker date="1515197009285" expanded="true" signature="51:107" ph="{% block title ...%}" />
+            <marker date="1515197009285" expanded="true" signature="108:236" ph="{% block body ...%}" />
+            <marker date="1515197009285" expanded="false" signature="174:212" ph="ffPlatform:Advert:form" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ff/PlatformBundle/Entity/Image.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="55" column="24" lean-forward="false" selection-start-line="55" selection-start-column="20" selection-end-line="55" selection-end-column="24" />
+          <folding>
+            <marker date="1515198780729" expanded="true" signature="81:202" ph=" Image ..." />
+            <marker date="1515198780729" expanded="true" signature="216:1377" ph="{...}" />
+            <marker date="1515198780729" expanded="true" signature="226:360" ph=" @var int ..." />
+            <marker date="1515198780729" expanded="true" signature="388:478" ph=" @var string ..." />
+            <marker date="1515198780729" expanded="true" signature="507:597" ph=" @var string ..." />
+            <marker date="1515198780729" expanded="true" signature="627:673" ph=" Get id ..." />
+            <marker date="1515198780729" expanded="true" signature="703:741" ph="{...}" />
+            <marker date="1515198780729" expanded="true" signature="750:832" ph=" Set url ..." />
+            <marker date="1515198780729" expanded="true" signature="867:929" ph="{...}" />
+            <marker date="1515198780729" expanded="true" signature="938:988" ph=" Get url ..." />
+            <marker date="1515198780729" expanded="true" signature="1019:1058" ph="{...}" />
+            <marker date="1515198780729" expanded="true" signature="1067:1149" ph=" Set alt ..." />
+            <marker date="1515198780729" expanded="true" signature="1184:1246" ph="{...}" />
+            <marker date="1515198780729" expanded="true" signature="1255:1305" ph=" Get alt ..." />
+            <marker date="1515198780729" expanded="true" signature="1336:1375" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://table:/f8b50f1/3752f53b-453b-4b6f-b8be-c31c087236fb/practicesymfony.image">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ff/PlatformBundle/Entity/Application.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2607">
+          <caret line="173" column="10" lean-forward="false" selection-start-line="173" selection-start-column="7" selection-end-line="173" selection-end-column="10" />
+          <folding>
+            <marker date="1515198780720" expanded="true" signature="81:220" ph=" Application ..." />
+            <marker date="1515198780720" expanded="true" signature="240:3110" ph="{...}" />
+            <marker date="1515198780720" expanded="true" signature="250:384" ph=" @var int ..." />
+            <marker date="1515198780720" expanded="true" signature="412:505" ph=" @var string ..." />
+            <marker date="1515198780720" expanded="true" signature="537:617" ph=" @var string ..." />
+            <marker date="1515198780720" expanded="true" signature="650:734" ph=" @var \DateTime ..." />
+            <marker date="1515198780720" expanded="true" signature="790:841" ph="{...}" />
+            <marker date="1515198780720" expanded="true" signature="850:965" ph=" @ORM\ManyToOne(targetEntity=&quot;ff\PlatformBundle\Entity\Advert&quot;) ..." />
+            <marker date="1515198780720" expanded="true" signature="998:1044" ph=" Get id ..." />
+            <marker date="1515198780720" expanded="true" signature="1074:1112" ph="{...}" />
+            <marker date="1515198780720" expanded="true" signature="1121:1215" ph=" Set author ..." />
+            <marker date="1515198780720" expanded="true" signature="1256:1324" ph="{...}" />
+            <marker date="1515198780720" expanded="true" signature="1333:1386" ph=" Get author ..." />
+            <marker date="1515198780720" expanded="true" signature="1420:1462" ph="{...}" />
+            <marker date="1515198780720" expanded="true" signature="1471:1567" ph=" Set content ..." />
+            <marker date="1515198780720" expanded="true" signature="1610:1680" ph="{...}" />
+            <marker date="1515198780720" expanded="true" signature="1689:1743" ph=" Get content ..." />
+            <marker date="1515198780720" expanded="true" signature="1778:1821" ph="{...}" />
+            <marker date="1515198780720" expanded="true" signature="1830:1923" ph=" Set date ..." />
+            <marker date="1515198780720" expanded="true" signature="1960:2024" ph="{...}" />
+            <marker date="1515198780720" expanded="true" signature="2033:2087" ph=" Get date ..." />
+            <marker date="1515198780720" expanded="true" signature="2119:2159" ph="{...}" />
+            <marker date="1515198780720" expanded="true" signature="2168:2288" ph=" Add advert ..." />
+            <marker date="1515198780720" expanded="true" signature="2362:2432" ph="{...}" />
+            <marker date="1515198780720" expanded="true" signature="2441:2530" ph=" Remove advert ..." />
+            <marker date="1515198780720" expanded="true" signature="2607:2666" ph="{...}" />
+            <marker date="1515198780720" expanded="true" signature="2675:2761" ph=" Get advert ..." />
+            <marker date="1515198780720" expanded="true" signature="2795:2837" ph="{...}" />
+            <marker date="1515198780720" expanded="true" signature="2846:2966" ph=" Set advert ..." />
+            <marker date="1515198780720" expanded="true" signature="3040:3108" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://table:/f8b50f1/3752f53b-453b-4b6f-b8be-c31c087236fb/practicesymfony.application">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ff/PlatformBundle/Entity/Category.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-298">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1515200917876" expanded="true" signature="81:211" ph=" Category ..." />
+            <marker date="1515200917876" expanded="true" signature="228:967" ph="{...}" />
+            <marker date="1515200917876" expanded="true" signature="238:372" ph=" @var int ..." />
+            <marker date="1515200917876" expanded="true" signature="400:491" ph=" @var string ..." />
+            <marker date="1515200917876" expanded="true" signature="522:568" ph=" Get id ..." />
+            <marker date="1515200917876" expanded="true" signature="598:636" ph="{...}" />
+            <marker date="1515200917876" expanded="true" signature="645:732" ph=" Set name ..." />
+            <marker date="1515200917876" expanded="true" signature="769:833" ph="{...}" />
+            <marker date="1515200917876" expanded="true" signature="842:893" ph=" Get name ..." />
+            <marker date="1515200917876" expanded="true" signature="925:965" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/AppKernel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="25" column="86" lean-forward="false" selection-start-line="25" selection-start-column="86" selection-end-line="25" selection-end-column="86" />
+          <folding>
+            <marker date="1515202320117" expanded="true" signature="11:100" ph="..." />
+            <marker date="1515202320117" expanded="true" signature="132:1914" ph="{...}" />
+            <marker date="1515202320117" expanded="true" signature="172:1452" ph="{...}" />
+            <marker date="1515202320117" expanded="true" signature="199:765" ph="..." />
+            <marker date="1515202320117" expanded="true" signature="840:1419" ph="..." />
+            <marker date="1515202320117" expanded="true" signature="1225:1409" ph="..." />
+            <marker date="1515202320117" expanded="true" signature="1486:1522" ph="{...}" />
+            <marker date="1515202320117" expanded="true" signature="1557:1640" ph="{...}" />
+            <marker date="1515202320117" expanded="true" signature="1673:1730" ph="{...}" />
+            <marker date="1515202320117" expanded="true" signature="1807:1912" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="98">
+          <caret line="22" column="43" lean-forward="true" selection-start-line="22" selection-start-column="43" selection-end-line="22" selection-end-column="43" />
+          <folding>
+            <marker date="1515203380996" expanded="true" signature="0:2404" ph="{&quot;name&quot;: &quot;symfony/framework-standard-edition&quot;...}" />
+            <marker date="1515203380996" expanded="true" signature="181:305" ph="{...}" />
+            <marker date="1515203380996" expanded="true" signature="200:234" ph="{&quot;&quot;: &quot;src/&quot;...}" />
+            <marker date="1515203380996" expanded="true" signature="327:483" ph="{...}" />
+            <marker date="1515203380996" expanded="true" signature="500:969" ph="{&quot;php&quot;: &quot;&gt;=5.5.9&quot;...}" />
+            <marker date="1515203380996" expanded="true" signature="990:1134" ph="{&quot;doctrine/doctrine-fixtures-bundle&quot;: &quot;^2.0&quot;...}" />
+            <marker date="1515203380996" expanded="true" signature="1151:1882" ph="{...}" />
+            <marker date="1515203380996" expanded="true" signature="1180:1733" ph="[...]" />
+            <marker date="1515203380996" expanded="true" signature="1763:1805" ph="[...]" />
+            <marker date="1515203380996" expanded="true" signature="1834:1876" ph="[...]" />
+            <marker date="1515203380996" expanded="true" signature="1898:1995" ph="{&quot;sort-packages&quot;: true...}" />
+            <marker date="1515203380996" expanded="true" signature="1920:1958" ph="{&quot;php&quot;: &quot;5.5.9&quot;...}" />
+            <marker date="1515203380996" expanded="true" signature="2010:2402" ph="{&quot;symfony-app-dir&quot;: &quot;app&quot;...}" />
+            <marker date="1515203380996" expanded="true" signature="2264:2323" ph="{&quot;file&quot;: &quot;app/config/parameters.yml&quot;...}" />
+            <marker date="1515203380996" expanded="true" signature="2349:2396" ph="{&quot;dev-master&quot;: &quot;3.3-dev&quot;...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/symfony/symfony/src/Symfony/Bundle/WebServerBundle/Resources/router.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1515202037013" expanded="false" signature="9:234" ph="..." />
+            <marker date="1515202037013" expanded="true" signature="240:639" ph="..." />
+            <marker date="1515202037013" expanded="true" signature="800:843" ph="..." />
+            <marker date="1515202037013" expanded="true" signature="931:950" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ff/PlatformBundle/DataFixtures/ORM/LoadCategory.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <folding>
+            <marker date="1515204962334" expanded="true" signature="58:190" ph="..." />
+            <marker date="1515204962334" expanded="true" signature="238:940" ph="{...}" />
+            <marker date="1515204962334" expanded="true" signature="369:938" ph="{...}" />
+            <marker date="1515204962334" expanded="true" signature="444:595" ph="..." />
+            <marker date="1515204962334" expanded="true" signature="637:838" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://table:/f8b50f1/3752f53b-453b-4b6f-b8be-c31c087236fb/practicesymfony.category">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ff/PlatformBundle/Controller/AdvertController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="173" column="21" lean-forward="false" selection-start-line="173" selection-start-column="21" selection-end-line="173" selection-end-column="21" />
+          <folding>
+            <marker date="1515205680303" expanded="false" signature="51:412" ph="..." />
+            <marker date="1515205680303" expanded="true" signature="455:6582" ph="{...}" />
+            <marker date="1515205680303" expanded="true" signature="497:1597" ph="{...}" />
+            <marker date="1515205680303" expanded="true" signature="533:1589" ph="..." />
+            <marker date="1515205680303" expanded="false" signature="534:573" ph="ffPlatform:Advert:index" />
+            <marker date="1515205680303" expanded="true" signature="577:1588" ph="..." />
+            <marker date="1515205680303" expanded="true" signature="608:1578" ph="..." />
+            <marker date="1515205680303" expanded="true" signature="626:940" ph="..." />
+            <marker date="1515205680303" expanded="true" signature="960:1258" ph="..." />
+            <marker date="1515205680303" expanded="true" signature="1278:1564" ph="..." />
+            <marker date="1515205680303" expanded="true" signature="1653:2409" ph="{...}" />
+            <marker date="1515205680303" expanded="true" signature="1932:2050" ph="..." />
+            <marker date="1515205680303" expanded="true" signature="2263:2401" ph="..." />
+            <marker date="1515205680303" expanded="false" signature="2264:2302" ph="ffPlatform:Advert:view" />
+            <marker date="1515205680303" expanded="true" signature="2306:2400" ph="..." />
+            <marker date="1515205680303" expanded="true" signature="2469:2584" ph="{...}" />
+            <marker date="1515205680303" expanded="true" signature="2634:4481" ph="{...}" />
+            <marker date="1515205680303" expanded="true" signature="4095:4340" ph="..." />
+            <marker date="1515205680303" expanded="false" signature="4433:4470" ph="ffPlatform:Advert:add" />
+            <marker date="1515205680303" expanded="true" signature="4537:5196" ph="{...}" />
+            <marker date="1515205680303" expanded="true" signature="4736:4817" ph="..." />
+            <marker date="1515205680303" expanded="true" signature="5036:5090" ph="..." />
+            <marker date="1515205680303" expanded="true" signature="5254:5737" ph="{...}" />
+            <marker date="1515205680303" expanded="true" signature="5452:5518" ph="..." />
+            <marker date="1515205680303" expanded="true" signature="5650:5707" ph="..." />
+            <marker date="1515205680303" expanded="true" signature="5777:6168" ph="{...}" />
+            <marker date="1515205680303" expanded="true" signature="5813:6033" ph="..." />
+            <marker date="1515205680303" expanded="true" signature="6065:6160" ph="..." />
+            <marker date="1515205680303" expanded="false" signature="6066:6104" ph="ffPlatform:Advert:menu" />
+            <marker date="1515205680303" expanded="true" signature="6108:6159" ph="..." />
+            <marker date="1515205680303" expanded="true" signature="6172:6578" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://table:/f8b50f1/3752f53b-453b-4b6f-b8be-c31c087236fb/practicesymfony.advert_category">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://table:/f8b50f1/3752f53b-453b-4b6f-b8be-c31c087236fb/practicesymfony.advert">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ff/PlatformBundle/Entity/Advert.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="73" column="11" lean-forward="false" selection-start-line="73" selection-start-column="4" selection-end-line="73" selection-end-column="11" />
+          <folding>
+            <marker date="1515206040512" expanded="true" signature="48:125" ph="..." />
+            <marker date="1515206040512" expanded="true" signature="130:254" ph=" Advert ..." />
+            <marker date="1515206040512" expanded="true" signature="269:4439" ph="{...}" />
+            <marker date="1515206040512" expanded="true" signature="308:403" ph="..." />
+            <marker date="1515206040512" expanded="true" signature="412:546" ph=" @var int ..." />
+            <marker date="1515206040512" expanded="true" signature="574:658" ph=" @var \DateTime ..." />
+            <marker date="1515206040512" expanded="true" signature="688:780" ph=" @var string ..." />
+            <marker date="1515206040512" expanded="true" signature="811:904" ph=" @var string ..." />
+            <marker date="1515206040512" expanded="true" signature="936:1016" ph=" @var string ..." />
+            <marker date="1515206040512" expanded="true" signature="1049:1132" ph=" @var bool ..." />
+            <marker date="1515206040512" expanded="true" signature="1172:1267" ph=" @ORM\OneToOne(targetEntity=&quot;ff\PlatformBundle\Entity\Image&quot;, cascade={&quot;persist&quot;}) ..." />
+            <marker date="1515206040512" expanded="true" signature="1299:1399" ph=" @ORM\ManyToMany(targetEntity=&quot;ff\PlatformBundle\Entity\Category&quot;, cascade={&quot;persist&quot;}) ..." />
+            <marker date="1515206040512" expanded="true" signature="1435:1481" ph=" Get id ..." />
+            <marker date="1515206040512" expanded="true" signature="1511:1549" ph="{...}" />
+            <marker date="1515206040512" expanded="true" signature="1558:1646" ph=" Set date ..." />
+            <marker date="1515206040512" expanded="true" signature="1683:1747" ph="{...}" />
+            <marker date="1515206040512" expanded="true" signature="1756:1810" ph=" Get date ..." />
+            <marker date="1515206040512" expanded="true" signature="1842:1882" ph="{...}" />
+            <marker date="1515206040512" expanded="true" signature="1891:1978" ph=" Set title ..." />
+            <marker date="1515206040512" expanded="true" signature="2017:2083" ph="{...}" />
+            <marker date="1515206040512" expanded="true" signature="2092:2144" ph=" Get title ..." />
+            <marker date="1515206040512" expanded="true" signature="2177:2218" ph="{...}" />
+            <marker date="1515206040512" expanded="true" signature="2227:2316" ph=" Set author ..." />
+            <marker date="1515206040512" expanded="true" signature="2357:2425" ph="{...}" />
+            <marker date="1515206040512" expanded="true" signature="2434:2487" ph=" Get author ..." />
+            <marker date="1515206040512" expanded="true" signature="2521:2563" ph="{...}" />
+            <marker date="1515206040512" expanded="true" signature="2572:2663" ph=" Set content ..." />
+            <marker date="1515206040512" expanded="true" signature="2706:2776" ph="{...}" />
+            <marker date="1515206040512" expanded="true" signature="2785:2839" ph=" Get content ..." />
+            <marker date="1515206040512" expanded="true" signature="2874:2917" ph="{...}" />
+            <marker date="1515206040512" expanded="true" signature="2926:3022" ph=" Set published ..." />
+            <marker date="1515206040512" expanded="true" signature="3069:3143" ph="{...}" />
+            <marker date="1515206040512" expanded="true" signature="3152:3209" ph=" Get published ..." />
+            <marker date="1515206040512" expanded="true" signature="3246:3291" ph="{...}" />
+            <marker date="1515206040512" expanded="true" signature="3300:3412" ph=" Set image ..." />
+            <marker date="1515206040512" expanded="true" signature="3490:3556" ph="{...}" />
+            <marker date="1515206040512" expanded="true" signature="3565:3642" ph=" Get image ..." />
+            <marker date="1515206040512" expanded="true" signature="3675:3716" ph="{...}" />
+            <marker date="1515206040512" expanded="true" signature="3725:3846" ph=" Add category ..." />
+            <marker date="1515206040512" expanded="true" signature="3926:4002" ph="{...}" />
+            <marker date="1515206040512" expanded="true" signature="4011:4106" ph=" Remove category ..." />
+            <marker date="1515206040512" expanded="true" signature="4189:4254" ph="{...}" />
+            <marker date="1515206040512" expanded="true" signature="4263:4353" ph=" Get categories ..." />
+            <marker date="1515206040512" expanded="true" signature="4391:4437" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ff/PlatformBundle/Resources/views/Advert/view.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="1" column="52" lean-forward="true" selection-start-line="1" selection-start-column="52" selection-end-line="1" selection-end-column="52" />
+          <folding>
+            <element signature="e#12#46#0#Twig" expanded="true" />
+            <marker date="1515206211288" expanded="false" signature="784:800" ph="/{page}" />
+            <marker date="1515206211288" expanded="false" signature="946:962" ph="/edit/{id}" />
+            <marker date="1515206211288" expanded="false" signature="1115:1133" ph="/delete/{id}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
