@@ -1,9 +1,14 @@
 <?php
 namespace ff\PlatformBundle\Controller;
 
-use Symfony\Bundle\FrameworkBundle\Controller\Controller;
+use ff\PlatformBundle\Entity\Advert;
+use ff\PlatformBundle\Entity\Application;
+use ff\PlatformBundle\Entity\Category;
+use ff\PlatformBundle\Entity\Image;
+use Symfony\Component\Config\Definition\Exception\Exception;
 use Symfony\Component\HttpFoundation\Request;
-use Symfony\Component\HttpKernel\Exception\NotFoundHttpException;
+use Symfony\Bundle\FrameworkBundle\Controller\Controller;
+use Symfony\Component\HttpFoundation\Response;
 
 class AdvertController extends Controller
 {
@@ -13,10 +18,10 @@ class AdvertController extends Controller
         return $this->render('ffPlatformBundle:Advert:index.html.twig', [
             'listAdverts' => [
                 [
-                    'title' => 'Recherche développpeur Symfony',
+                    'title' => 'Recherche dérenderpppeur Symfony',
                     'id' => 1,
                     'author' => 'Alexandre',
-                    'content' => 'Nous recherchons un développeur Symfony débutant sur Lyon. Blabla... ',
+                    'content' => 'Nous recherchons un dérenderppeur Symfony débutant sur Lyon. Blabla... ',
                     'date' => new \Datetime()
                 ],
                 [
@@ -40,15 +45,28 @@ class AdvertController extends Controller
 
     public function viewAction($id, Request $request)
     {
+
+        // On récupère le repository
+        $em = $this->getDoctrine()->getManager();
+
+
+        // On récupère l'entité correspondant à l'id
+        $advert = $em->getRepository(Advert::class)->find($id);
+
+
+        // Si l'entité n'existe
+        if ($advert === null) {
+            // On renvoi une erreur
+            throw new Exception("La page pour l'id : $id n'existe pas");
+        }
+
+        // On récupère les annonce de l'advert
+        $listApplications = $em->getRepository(Application::class)->findBy(['advert' => $advert]);
+
+        // Sinon on return la vue
         return $this->render('ffPlatformBundle:Advert:view.html.twig', [
-            'advert' =>
-                [
-                    'title' => 'Recherche développpeur Symfony',
-                    'id' => 1,
-                    'author' => 'Alexandre',
-                    'content' => 'Nous recherchons un développeur Symfony débutant sur Lyon. Blabla... ',
-                    'date' => new \Datetime()
-                ]
+            'advert' => $advert,
+            'listApplications' => $listApplications
         ]);
     }
 
@@ -61,39 +79,105 @@ class AdvertController extends Controller
 
     public function addAction(Request $request)
     {
-        // Si l'user soumet le formulaire
+        // Création de l'entité Advert
+        $advert = new Advert();
+        $advert->setTitle('Recherche développeur Symfony');
+        $advert->setAuthor('Alexandre');
+        $advert->setContent('Nous recherchons un dev Symfony sur Londre ...');
+
+        // Création de l'entité Image
+        $image = new Image();
+        $image->setUrl('http://sdz-upload.s3.amazonaws.com/prod/upload/job-de-reve.jpg');
+        $image->setAlt('Job de rêve');
+
+        // On lie l'image à l'annonce
+        $advert->setImage($image);
+
+        // Création de deux candidatures
+        $application = new Application();
+        $application->setAuthor('Marine');
+        $application->setContent("J'ai toute les qualités requises");
+
+        $application2 = new Application();
+        $application2->setAuthor('Paul');
+        $application2->setContent("Je pense être le bon candidat");
+
+        // On lie les candidatures à l'annonce
+        $application->setAdvert($advert);
+        $application2->setAdvert($advert);
+
+        // On récupère le gestionnaire d'entity (Entity_manager)
+        $em = $this->getDoctrine()->getManager();
+        $em->persist($advert);
+        // On précise que l'on veut persiter l'objet
+        $em->persist($application);
+        $em->persist($application2);
+
+        // On demande la mise à jours effectif
+        $em->flush();
+
+        // On affiche un message si l'objet est bien persisté
         if ($request->isMethod('POST')) {
-            // On enregistre le message Flash pour valider l'enregistrement
-            $request->getSession()->getFlashBag()->add('notice', 'Annonce bien enregistré');
-            // On redirige l'user vers la visualisation de son anonce 
-            return $this->redirectToRoute('ff_platform_view', ['id' => 5]);
+            $request->getSession()->getFlashBag->add('notice', 'Annonce bien enregistré');
+
+            // Redirection vers la page de l'annonce
+            return $this->redirectToRoute('ff_platform_view', ['id' => $advert->getId()]);
         }
-        return $this->render('ffPlatformBundle:Advert:add.html.twig', []);
+
+        // Si ce n'est pas un POST on affiche le formulaire
+        return $this->render('ffPlatformBundle:Advert:add.html.twig');
+
+
     }
 
 
     public function editAction($id, Request $request)
     {
-      $advert = [
-            'title' => 'Recherche développpeur Symfony',
-            'id' => $id,
-            'author' => 'Alexandre',
-            'content' => 'Nous recherchons un développeur Symfony débutant sur Lyon. Blabla... ',
-            'date' => new \Datetime()
-      ];
-      return $this->render('ffPlatformBundle:Advert:edit.html.twig', ['advert' => $advert]);
+
+        $em = $this->getDoctrine()->getManager();
+
+        // On récupère l'annonce de l'id $id
+        $advert = $em->getRepository(Advert::class)->find($id);
+        if (null === $advert) {
+            throw new Exception("L'annonce à l'id : $id n'existe pas");
+        }
+
+        // On récupère toute les categories
+        $listCategories = $em->getRepository(Category::class)->findAll();
+
+        // On affecte les categories à l'annonce
+        foreach ($listCategories as $category) {
+            $advert->addCategory($category);
+        }
+
+        // On persiste dans la BDD (utilise uniquement sur le propriétaire)
+        $em->flush();
     }
 
 
     public function deleteAction($id, Request $request)
     {
-        return $this->render('ffPlatformBundle:Advert:delete.html.twig', []);
+        $em = $this->getDoctrine()->getManager();
+
+        // On récupère l'annonce de l'id $id
+        $advert = $em->getRepository(Advert::class)->find($id);
+
+        if ($advert == null) {
+            throw new Exception('La page n existe pas');
+        }
+
+        // On boucle sur les categories de l'annonce pour les supprimer
+        foreach ($advert->getCategories() as $category) {
+            $advert->removeCategory($category);
+        }
+
+        $em->flush();
     }
 
     public function menuAction($limit)
     {
         $listAdverts = array(
-            array('id' => 2, 'title' => 'Recherche développeur Symfony'),
+            array('id' => 2, 'title' => 'Recherche dérenderppeur Symfony'),
             array('id' => 5, 'title' => 'Mission de webmaster'),
             array('id' => 9, 'title' => 'Offre de stage webdesigner')
         );
@@ -102,4 +186,17 @@ class AdvertController extends Controller
         ]);
     }
 
+/*    public function editImageAction ($advertId) {
+        $em = $this->getDoctrine()->getManager();
+
+        // On récupère l'annonce
+        $advert = $em->getRepository(Advert::class)->find($advertId);
+
+        // On modifie l'alt de l'image sélectionné
+        $advert->getImage()->setUrl('test.png');
+
+        // On le persiste dans la BDD
+        $em->flush();
+        return new Response('ok');
+    }*/
 }

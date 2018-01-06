@@ -3,8 +3,4 @@
 {% block body %}
     <h2>Ajouter une annonce</h2>
     {% include "ffPlatformBundle:Advert:form.html.twig" %}
-    <a class="btn btn-default" href="{{ path('ff_platform_view', {'id':advert.id}) }}">
-        <i class="glyphicon glyphicon-chevron-left"></i>
-        Retour à l'annonce
-    </a>
 {% endblock body %}
