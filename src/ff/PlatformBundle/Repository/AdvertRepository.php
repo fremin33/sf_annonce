@@ -1,6 +1,7 @@
 <?php
 
 namespace ff\PlatformBundle\Repository;
+use Doctrine\ORM\QueryBuilder;
 
 /**
  * AdvertRepository
@@ -10,4 +11,59 @@ namespace ff\PlatformBundle\Repository;
  */
 class AdvertRepository extends \Doctrine\ORM\EntityRepository
 {
+    public function myFindAll()
+    {
+
+        // On récupère l'entité grâce à son namespace
+        $queryBuilder = $this->_em->createQueryBuilder('a');
+        // On récupère la query à partir du queryBuilder
+        $query = $queryBuilder->getQuery();
+        // On récupère les résultats
+        $results = $query->getResult();
+        // On return les résultats
+        return $results;
+    }
+
+    public function myFindAllDql() {
+        $query = $this->_em->createQuery('SELECT a FROM ffPlatformBundle:Advert a');
+        $results = $query->getResult();
+        return $results;
+    }
+
+    public function myFindOne($id)
+    {
+        $qb = $this->_em->createQueryBuilder('a');
+        $qb
+            ->where('a.id=:id')
+            ->setParameter('id', $id);
+
+        return $qb
+            ->getQuery()
+            ->getResult();
+    }
+
+    public function findByAuthorAndDate($author, $year)
+    {
+        $qb = $this->createQueryBuilder('a');
+        $qb
+            ->where('a.author=:author')
+            ->setParameter('author', $author)
+            ->andWhere('a.date<:date')
+            ->setParameter('year', $year)
+            ->orderBy('a.date', 'DESC');
+
+        return $qb
+            ->getQuery()
+            ->getResult();
+    }
+
+    public function whereCurrentYear(QueryBuilder $qb)
+    {
+        $qb
+            ->andWhere('a.date BETWEEN :start AND :end')
+            // Date comprise entre le 1er janvier de cette année
+            ->setParameter('start', new \DateTime(date('Y').'-01-01'))
+            // Et le 31 Décembre de cette année
+            ->setParameter('end', new \DateTime(date('Y').'-12-31'));
+    }
 }

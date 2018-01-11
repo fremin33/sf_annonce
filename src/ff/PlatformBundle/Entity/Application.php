@@ -48,7 +48,7 @@ class Application
     }
 
     /**
-     * @ORM\ManyToOne(targetEntity="ff\PlatformBundle\Entity\Advert")
+     * @ORM\ManyToOne(targetEntity="ff\PlatformBundle\Entity\Advert", inversedBy="applications")
      * @ORM\JoinColumn(nullable=false)
      */
     private $advert;

@@ -2,6 +2,7 @@
 
 namespace ff\PlatformBundle\Entity;
 
+use Doctrine\Common\Collections\ArrayCollection;
 use Doctrine\ORM\Mapping as ORM;
 
 /**
@@ -15,6 +16,8 @@ class Advert
 
     public function __construct() {
         $this->date = new \DateTime();
+        $this->applications = new ArrayCollection();
+        $this->categories = new ArrayCollection();
     }
     /**
      * @var int
@@ -70,6 +73,11 @@ class Advert
      * @ORM\ManyToMany(targetEntity="ff\PlatformBundle\Entity\Category", cascade={"persist"})
      */
     private $categories;
+
+    /**
+     * @ORM\OneToMany(targetEntity="ff\PlatformBundle\Entity\Application", mappedBy="advert")
+     */
+    private $applications;
 
     /**
      * Get id
@@ -223,5 +231,39 @@ class Advert
     public function getImage()
     {
         return $this->image;
+    }
+
+    /**
+     * Add category
+     *
+     * @param \ff\PlatformBundle\Entity\Category $category
+     *
+     * @return Advert
+     */
+    public function addCategory(\ff\PlatformBundle\Entity\Category $category)
+    {
+        $this->categories[] = $category;
+
+        return $this;
+    }
+
+    /**
+     * Remove category
+     *
+     * @param \ff\PlatformBundle\Entity\Category $category
+     */
+    public function removeCategory(\ff\PlatformBundle\Entity\Category $category)
+    {
+        $this->categories->removeElement($category);
+    }
+
+    /**
+     * Get categories
+     *
+     * @return \Doctrine\Common\Collections\Collection
+     */
+    public function getCategories()
+    {
+        return $this->categories;
     }
 }

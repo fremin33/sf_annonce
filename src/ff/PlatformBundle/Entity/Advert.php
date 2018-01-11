@@ -16,6 +16,7 @@ class Advert
 
     public function __construct() {
         $this->date = new \DateTime();
+        $this->applications = new ArrayCollection();
         $this->categories = new ArrayCollection();
     }
     /**
@@ -72,6 +73,11 @@ class Advert
      * @ORM\ManyToMany(targetEntity="ff\PlatformBundle\Entity\Category", cascade={"persist"})
      */
     private $categories;
+
+    /**
+     * @ORM\OneToMany(targetEntity="ff\PlatformBundle\Entity\Application", mappedBy="advert")
+     */
+    private $applications;
 
     /**
      * Get id
@@ -260,4 +266,42 @@ class Advert
     {
         return $this->categories;
     }
+
+    /**
+     * Add application
+     *
+     * @param \ff\PlatformBundle\Entity\Application $application
+     *
+     * @return Advert
+     */
+    public function addApplication(\ff\PlatformBundle\Entity\Application $application)
+    {
+        $this->applications[] = $application;
+
+        // On lie l'annonce à la candidature
+        $application->setAdvert($this);
+
+        return $this;
+    }
+
+    /**
+     * Remove application
+     *
+     * @param \ff\PlatformBundle\Entity\Application $application
+     */
+    public function removeApplication(\ff\PlatformBundle\Entity\Application $application)
+    {
+        $this->applications->removeElement($application);
+    }
+
+    /**
+     * Get applications
+     *
+     * @return \Doctrine\Common\Collections\Collection
+     */
+    public function getApplications()
+    {
+        return $this->applications;
+    }
+
 }

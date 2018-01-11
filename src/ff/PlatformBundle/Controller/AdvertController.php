@@ -2,9 +2,11 @@
 namespace ff\PlatformBundle\Controller;
 
 use ff\PlatformBundle\Entity\Advert;
+use ff\PlatformBundle\Entity\AdvertSkill;
 use ff\PlatformBundle\Entity\Application;
 use ff\PlatformBundle\Entity\Category;
 use ff\PlatformBundle\Entity\Image;
+use ff\PlatformBundle\Entity\Skill;
 use Symfony\Component\Config\Definition\Exception\Exception;
 use Symfony\Component\HttpFoundation\Request;
 use Symfony\Bundle\FrameworkBundle\Controller\Controller;
@@ -63,10 +65,13 @@ class AdvertController extends Controller
         // On récupère les annonce de l'advert
         $listApplications = $em->getRepository(Application::class)->findBy(['advert' => $advert]);
 
+        // On récupère les skll de l'annonce
+        $listAdvertSkills = $em->getRepository(AdvertSkill::class)->findBy(['advert' => $advert]);
         // Sinon on return la vue
         return $this->render('ffPlatformBundle:Advert:view.html.twig', [
             'advert' => $advert,
-            'listApplications' => $listApplications
+            'listApplications' => $listApplications,
+            'listAdvertSkills' => $listAdvertSkills
         ]);
     }
 
@@ -106,8 +111,21 @@ class AdvertController extends Controller
         $application->setAdvert($advert);
         $application2->setAdvert($advert);
 
-        // On récupère le gestionnaire d'entity (Entity_manager)
         $em = $this->getDoctrine()->getManager();
+        // On récupère tous les skill
+        $listSkills = $em->getRepository(Skill::class)->findAll();
+
+        foreach ($listSkills as $skill) {
+            $advertSkill = new AdvertSkill();
+            $advertSkill->setAdvert($advert);
+            $advertSkill->setSkill($skill);
+            $advertSkill->setLevel('Expert');
+            $em->persist($advertSkill);
+        }
+
+
+        // On récupère le gestionnaire d'entity (Entity_manager)
+
         $em->persist($advert);
         // On précise que l'on veut persiter l'objet
         $em->persist($application);
